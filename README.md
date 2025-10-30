@@ -1,0 +1,2 @@
+# EV-range-prediction-using-Machine-Learning-and-shows-nearby-EV-station-
+This project deals with the problem of deciding range of an Electric Vehicle in case of an lowerThe solution proposed is to train an AI model with various EVs with different configuration of battery and their efficiency to calculate the average range of an EV , which helps in determining the range that can be covered using available battery backup.
